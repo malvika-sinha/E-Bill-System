@@ -17,7 +17,7 @@ electricity bills online mode.
 
 
 
-# E-Bill-System
+# Technologies Used
 
 - Java Framework: Swing
 - Database: Oracle
