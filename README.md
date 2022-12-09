@@ -16,6 +16,8 @@ and the admin can manage all the accounts including the customers and employeesâ
 electricity bills online mode.
 
 
-#Technologies Used
+
+# E-Bill-System
+
 - Java Framework: Swing
 - Database: Oracle
