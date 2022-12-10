@@ -27,23 +27,28 @@ Like a customer can only manage his account and cannot see any details of other 
   # Consumer Login
   
   ![consumerloginpage](https://user-images.githubusercontent.com/80953969/206874487-e8a036d8-6c6b-4f54-bb9a-b519fed95e45.JPG)
-  
+ 
+ 
   # Consumer's Detail
   
   ![customerdeatilsshjhdi](https://user-images.githubusercontent.com/80953969/206874506-bbd31098-e788-46a8-8540-dfdceb0879bb.JPG)
-  
+ 
+ 
   # Registration Page
   
   ![registrationpage](https://user-images.githubusercontent.com/80953969/206874516-c270e7a8-e109-4e6a-9a4d-62f169510e07.JPG)
+ 
  
   # Admin Login
   
   ![adminlogin](https://user-images.githubusercontent.com/80953969/206874551-78b2ff66-1be6-4f1e-b14a-cfbf6d99c711.JPG)
   
+  
   # Admin Page
   
   ![adminPage](https://user-images.githubusercontent.com/80953969/206874617-e1ee8af2-23a3-40b2-9094-34adcc39d895.JPG)
  
+  
   
   # Payment Procedures
   
@@ -52,6 +57,34 @@ Like a customer can only manage his account and cannot see any details of other 
   ![debitcard](https://user-images.githubusercontent.com/80953969/206874668-07535219-ccb7-4d86-a95c-b54d512b1d0a.JPG)
   
   ![upi](https://user-images.githubusercontent.com/80953969/206874672-c04247bf-ce51-4f69-aca2-3a66b0510f38.JPG)
+  
+  
+  # Generate Unit Details
+  
+  ![unitdetails](https://user-images.githubusercontent.com/80953969/206874730-f4e06dc8-86f0-40f2-ae0a-ef958fceaa35.JPG)
+  
+  
+  # remove user page
+  
+  ![removeruser](https://user-images.githubusercontent.com/80953969/206874758-25f80872-b478-4376-a8e0-a1bb75c41465.JPG)
+ 
+  
+  # End page
+  
+  ![endpage](https://user-images.githubusercontent.com/80953969/206874881-0af67ac9-3304-441a-b701-efafc6206056.JPG)
+  
+  
+  
+  
+# DATABASE ENTRIES
+
+![databasepart](https://user-images.githubusercontent.com/80953969/206874909-ba9eceb9-3d82-47db-b040-15b90f87aa39.JPG)
+
+
+
+  
+  
+  
 
   
   
