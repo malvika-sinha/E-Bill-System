@@ -19,5 +19,8 @@ Like a customer can only manage his account and cannot see any details of other 
 
 # User Interfaces:
     
-    # Homepage
+  # Homepage
+  
+  ![homepage](https://user-images.githubusercontent.com/80953969/206874451-2fbef0e8-7d2d-48b2-bf49-0ffff05db29c.JPG)
+
     
